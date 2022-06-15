@@ -1,3 +1,5 @@
+// #Update new chains and adapt
+
 import { Contract } from "ethers";
 import { FlashbotsBundleTransaction } from "@flashbots/ethers-provider-bundle";
 
