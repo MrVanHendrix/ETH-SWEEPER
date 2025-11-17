@@ -1379,7 +1379,7 @@
     "@ethersproject/logger" "^5.1.0"
     bn.js "^4.4.0"
 
-"@ethersproject/bytes@5.0.11", "@ethersproject/bytes@^5.0.11", "@ethersproject/bytes@^5.0.9":
+"@ethersproject/bytes@5.0.11", "@ethersproject/bytes@^5.0.9":
   version "5.0.11"
   resolved "https://registry.yarnpkg.com/@ethersproject/bytes/-/bytes-5.0.11.tgz#21118e75b1d00db068984c15530e316021101276"
   integrity sha512-D51plLYY5qF05AsoVQwIZVLqlBkaTPVHVP/1WmmBIWyHB0cRW0C9kh0kx5Exo51rB63Hk8PfHxc7SmpoaQFEyg==
@@ -5797,15 +5797,6 @@ ethereumjs-util@6.2.1:
     ethjs-util "0.1.6"
     rlp "^2.2.3"
 
-ethers-mev-engines@^0.0.4-a:
-  version "0.0.4-a"
-  resolved "https://registry.yarnpkg.com/ethers-mev-engines/-/ethers-mev-engines-0.0.4-a.tgz#481fe0c07ce45c01db841b0187709e437266eab3"
-  integrity sha512-OlpHfcFrA09qwbbEOHaHt2Q+RfQ0Yov4+OkSR5uHvUY4HwjZqyQGJmpaiMbPiTcwGOU/o4x/TWIG312EzyEQmA==
-  dependencies:
-    "@ethersproject/bytes" "^5.0.11"
-    "@flashbots/ethers-provider-bundle" "^0.2.1"
-    ethers "^5.0.32"
-
 ethers@^5.0.13:
   version "5.1.0"
   resolved "https://registry.yarnpkg.com/ethers/-/ethers-5.1.0.tgz#8a8758e0b6cbbc19fd4b87f4d551170fa6f1a995"
@@ -7966,9 +7957,9 @@ js-sha3@^0.8.0:
   integrity sha512-RdJUflcE3cUzKiMqQgsCu06FPu9UdIJO0beYbPhHN4k6apgJtifcoCtT9bcxOpYBtpD2kCM6Sbzg4CausW/PKQ==
 
 js-yaml@^3.13.1:
-  version "3.14.1"
-  resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-3.14.1.tgz#dae812fdb3825fa306609a8717383c50c36a0537"
-  integrity sha512-okMH7OXXJ7YrN9Ok3/SXrnu4iX9yOk+25nqX4imS2npuvTYDmo/QEZoqwZkYaIDk3jVvBOTOIEgEhaLOynBS9g==
+  version "3.14.2"
+  resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-3.14.2.tgz#77485ce1dd7f33c061fd1b16ecea23b55fcb04b0"
+  integrity sha512-PMSmkqxr106Xa156c2M265Z+FTrPl+oxd/rgOQy2tijQeK5TxQ43psO1ZCwhVOSdnn+RzkzlRz/eY4BgJBYVpg==
   dependencies:
     argparse "^1.0.7"
     esprima "^4.0.0"
